@@ -100,6 +100,11 @@
                         <div class="progress">
                             <div class="progress-bar" style="width: 40%">40%</div>
                         </div>
+
+                        <p>React Js</p>
+                        <div class="progress">
+                            <div class="progress-bar" style="width: 35%">35%</div>
+                        </div>
                     </div>
                 </div>
             </div>
