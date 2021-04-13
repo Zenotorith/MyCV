@@ -99,15 +99,7 @@ body{
 .progress-bar{
     border-radius: 16px;
     background: #000 !important;
-    animation: gomove 1s 1;
-}
-@keyframes gomove{
-    0%{width: 0;}
-    30%{width: 30%}
-    55%{width: 55%}
-    90%{width: 90%}
-    40%{width: 40%}
-    35%{width: 35%}
+    transition: width 800ms ease;
 }
 
 /* Resume */
