@@ -99,7 +99,7 @@ body{
 .progress-bar{
     border-radius: 16px;
     background: #000 !important;
-    transition: width 800ms ease;
+    transform: translate(50%)
 }
 
 /* Resume */
