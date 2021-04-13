@@ -99,8 +99,12 @@ body{
 .progress-bar{
     border-radius: 16px;
     background: #000 !important;
+    animation: gomove 2s 1 alternate;
 }
-
+@keyframes gomove{
+    0%{width: 0;}
+    100%{width: 100%}
+}
 
 /* Resume */
 .resume{
